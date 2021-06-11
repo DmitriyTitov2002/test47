@@ -1,0 +1,34 @@
+{
+  "Person0": {
+  "Organization" : "Facebook",
+  "First_Name": "Andrew",
+  "Last_Name": "Ivanov",
+  "Age" : 20,
+  "Vacancy" : "Python developer",
+  "Salary": 2000,
+  "Courses" : [
+          {"Course_Name":"Python DJANGO","Category":"WEB","Rating":85},
+          {"Course_Name":"Data analysis on Python","Category":"DEEP LEARNING","Rating":100}
+          ]},
+  "Person1": {
+  "Organization" : "VK",
+  "First_Name": "Nikita",
+  "Last_Name": "Petrov",
+  "Age" : 30,
+  "Vacancy" : "C# developer",
+  "Salary": 2344,
+  "Courses" : [
+          {"Course_Name":"ASP.NET","Category":"WEB","Rating":85},
+          {"Course_Name":"Data analysis on C#","Category":"DEEP LEARNING","Rating":100}
+          ]},
+  "Person2": {
+  "Organization" : "MAIL.ru",
+  "First_Name": "Dmitry",
+  "Last_Name": "Nikitin",
+  "Age" : 24,
+  "Vacancy" : "Python developer",
+  "Salary": 3094,
+  "Courses" : [
+          {"Course_Name":"Data analysis on Python","Category":"DEEP LEARNING","Rating":100}
+          ]}
+}

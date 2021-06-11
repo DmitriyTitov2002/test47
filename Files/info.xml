@@ -1,0 +1,20 @@
+<Person>
+    <Organization>Facebook</Organization>
+    <First_Name>Andrew</First_Name>
+    <Last_Name>Ivanov</Last_Name>
+    <Age>20</Age>
+    <Vacancy>Python developer</Vacancy>
+    <Salary>2000</Salary>
+    <Courses>
+        <Course0>
+            <Course_Name>Python DJANGO</Course_Name>
+            <Category>WEB</Category>
+            <Rating>85</Rating>
+        </Course0>
+        <Course1>
+            <Course_Name>Data analysis on Python</Course_Name>
+            <Category>DEEP LEARNING</Category>
+            <Rating>100</Rating>
+        </Course1>
+    </Courses>
+</Person>
