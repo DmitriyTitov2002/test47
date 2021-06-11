@@ -1,0 +1,1 @@
+{'Person': {'Organization': 'Facebook', 'First_Name': 'Andrew', 'Last_Name': 'Ivanov', 'Age': '20', 'Vacancy': 'Python developer', 'Salary': '2000', 'Courses': {'Course0': {'Course_Name': 'Python DJANGO', 'Category': 'WEB', 'Rating': '85'}, 'Course1': {'Course_Name': 'Data analysis on Python', 'Category': 'DEEP LEARNING', 'Rating': '100'}}}}
